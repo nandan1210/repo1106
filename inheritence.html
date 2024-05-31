@@ -1,0 +1,33 @@
+<html>
+  <head></head>
+  <body>
+    <center>
+      <h1>Inheritence In Javascript</h1>
+      <script>
+         class Animal{
+           show(){
+              document.write("<h1>I Am An Animal</h1>");
+           }
+         }
+        class Tiger extends Animal{
+          show(){
+              document.write("<h1>My Name Is Tiger</h1>");
+           }
+
+        }
+         class Elephant extends Animal{
+          show(){
+              document.write("<h1>My Name Is Elephant</h1>");
+           }
+
+        }
+
+        obj1=new Tiger()
+        obj1.show();
+        obj2=new Elephant()
+        obj2.show();
+
+      </script>
+    </center>
+  </body>
+</html>

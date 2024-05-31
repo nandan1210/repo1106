@@ -1,0 +1,276 @@
+
+"Javascript is a scripting language"
+scripting language====>
+1.Dynamically Typed====>no need to mention data type explicitly
+2.Loosely Typed(Weakly typed)====>simplicity of syntax
+===================================================================
+to display the output===>
+1.document.write()
+    ===>to print the output in a web page
+2.console.log()
+    ====>to print the output in a console
+======================================================
+Program to add two nos in javascript
+-------------------------------------------------------
+HTML===>Hyper Text Markup Language
+markup languages===>tags
+angular bracket
+<>
+-------------------------------------------------------
+Hyper Text===>content of a web page
+CSS===>Cascading Style Sheet
+Javascript====>to create a dynamic web page
+------------------------------------------------------
+CSS===>three ways to use css with html
+1.Internal Styling===>inside html file only
+   entire web page can be styled
+2.Inline Styling==>inside  a particular tag/element
+   only a particular element can be styled
+3.External Styling====>by creating a separate css file
+   any number of pages can be styled
+------------------------------------------------------------------------
+Selectors In CSS:
+==================
+1.Basic Selectors
+----------------------
+element selector===>all similar elements can be styled
+   elementname{}
+id selector===>only a particular element can be styled
+   #idname{}
+class selector===>different elements can be styled together
+   #classname{}
+----------------------
+2.Advance Selectors
+----------------------
+1.* selector===>for all elements
+  *{}
+2.adjacent selector===>immediate next neighbour
+   element+adjacent_element{}
+3.descendent selector
+   parent descendent{}
+4.attribute selector
+  <element attribute>
+  <a href="">
+  <link rel="" href="">
+  <table border></table>
+
+5.nth-of-type selector
+  element:nth-of-type(type){}
+========================================================================
+CSS Box Model:
+==================
+Flex Box====>no of items inside the box which are horizontally aligned by default
+===============================================================================================
+animation ===>gradual change in css style
+defining animation===>
+
+@keyframes animation_name{
+
+
+}
+=======================================================================================
+Bootstrap====>CSS based framework===>readymade CSS files
+------------------------------------------------------------------------------
+navbar===>navigation bar===>to make navigation easy
+navigation===>moving from one web page to another web page
+==========================================================================
+functions in javascript:
+--------------------------
+function show(){
+
+}
+
+show()
+================================================
+Event Handling:
+==================
+events==>mechanism to call the function
+onclick
+ondblclick
+onfocus
+onblur
+onmouserover
+onmouseout
+==================================================
+ES6===>advance form of javascript
+-----------------------------------
+ECMAScript===>official name of javascript
+ECMA===>European Computers Manufacturers Association
+================================================================
+key features of ES6:
+======================
+1.functions===>arrow function,anonymous function
+2.OOPS concepts===>classes,objects,Constructors
+=====================================================================
+function show(){
+
+}
+show()
+------------------------
+anonymous function 
+function (){
+
+}
+------------------------
+arrow function
+()=>{
+
+}
+=========================================
+classes are not directly available in memory
+objects are the manifestations
+=========================================================================
+constructor=====>method of a class:
+
+constructor()====>automatically or self calling method
+=======================================================================
+Four Pillars Of Object Oriented Programing:
+-----------------------------------------------
+1.Inheritence:
+-------------------
+parent class
+child class
+"properties of parent class are available in the child class"
+-----------------------------------------------------------------
+2.Polymorphism===>single method shows different behaviour in different 
+                   scenario
+  two ways===>
+   1.Method Overriding
+   2.Method Overloading
+3.Abstraction
+4.Encapsulation
+=========================================================
+React.js===>library of javascript====>developed by facebook(Metaverse)
+===========================================================================
+used at the Front End
+------------------------
+single page and component based web application
+----------------------------------------------------
+node.js
+=========================================================
+react.js====>library of javascript====>additional features added to the javascript
+react===>framework based on react.js====>readymade architecture based on javascript library which makes development faster
+===================================================================
+two commands of node====>
+npm===>node package manager====>to install a new package
+npx===>node package executor===>to executor already installed package
+============================================================
+=============
+npm===>install create-react-app
+npx===>execute create-react-app to develop a new application
+======================================================================
+Components In React Application====>
+1.Function Based Component
+2.Class Based Component
+===========================================================
+Events  In Reacts:
+=========================
+onClick
+onDblClick
+======================
+Forms In React
+======================
+node.js===>library of javascript works in backend
+======================================================
+Using node.js we can create our own server
+module===>http
+require('http')
+createServer()===>it creates the server
+listen()===>assigns unique no to server called port no
+port no===>gateway to the server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+two ways of displaying output in javascript===>
+1.By using  document.write()
+       ===>web page
+2.By using console.log()
+       ===>console
+====================================================
+
+
+
+
+
+
+
+
+
+
